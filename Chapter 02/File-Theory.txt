@@ -1,0 +1,7 @@
+How to create a new JavaScript file
+Ans: to create a new JavaScript file first add the file name and then file extension
+Example:
+  Hello.js .js--> JavaScript
+
+Theory of Hello World Program 
+Hello World Program was created by the author of B Programming Language who introduced Hello World Program
